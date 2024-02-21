@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellcodeRunner", "ShellcodeRunner\ShellcodeRunner.csproj", "{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Debug|x64.ActiveCfg = Debug|x64
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Debug|x64.Build.0 = Debug|x64
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Release|x64.ActiveCfg = Release|x64
+		{D4DBCE19-4FF7-4602-B485-AA55EEF9E01C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42847238-DA7A-4044-87D2-AD6C47A6DEC3}
+	EndGlobalSection
+EndGlobal
